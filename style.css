@@ -1,0 +1,29 @@
+body{
+    background-color: #FAF0CA;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    height: 20vh;
+    width: 20vw;
+    justify-content: center;
+    display: flex;
+}
+
+li{
+    font-size: 50px;
+}
+
+ol{
+    background-color: #9A8873;
+
+}
+
+button{ 
+    height: 15vh;
+    width: 7vw;
+}
